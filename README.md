@@ -1,3 +1,5 @@
+更改原版设计的display PCB, 主要修改arduino和esp01模块，改用SMD方式，更改部分芯片封装及细微参数调整。其余PCB不修改。
+
 # Rotating Display
 
 ## Abstract: 
